@@ -1,0 +1,3 @@
+ This is a test string with
+ special characters like and , and also some
+ symbols. "

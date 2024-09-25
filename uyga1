@@ -1,0 +1,12 @@
+valid.email@gmail.com
+user.name@gmail.com
+username123@gmail.com
+user_name@gmail.com
+example.email+tag@gmail.com
+
+
+user@.com (missing domain)
+user@domain..com (double dot in domain)
+user@domain,com (comma instead of dot)
+user@domain.c (TLD too short)
+username@gmail..com (double dot before TLD)
